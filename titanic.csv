@@ -809,7 +809,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 0,3,Mr. James Lester,male,39,0,0,24.15
 0,2,Mr. Richard James Slemen,male,35,0,0,10.5
 0,3,Miss. Ebba Iris Alfrida Andersson,female,6,4,2,31.275
-0,3,Mr. Ernest Portage Tomlin,male,30.5,0,0,8.05
+0,3,Mr. Ernest Portage Tomlin,male,30.5,0,0,8.05, 899
 0,1,Mr. Richard Fry,male,39,0,0,0
 0,3,Miss. Wendla Maria Heininen,female,23,0,0,7.925
 0,2,Mr. Albert Mallet,male,31,1,1,37.0042
